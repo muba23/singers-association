@@ -1,13 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import Cart from './component/Cart/Cart';
 import Header from './component/Header/Header';
-
+import Singer from './component/Singer/Singer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
-    <div className="App">
+    <div>
         <Header></Header>
+        <Singer></Singer>
+        <Cart></Cart>
     </div>
   );
 }
 
 export default App;
+ 

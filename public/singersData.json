@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "615026f5f471bee2b3f37d58",
+    "name": "Day Frank",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "HONG KONG",
+    "price": 62,
+    "phone": "+1 (964) 557-2842",
+    "img": "https://randomuser.me/api/portraits/med/men/84.jpg"
+  },
+  {
+    "_id": "615026f5c81df6d1562ae1fb",
+    "name": "Santos Trujillo",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "FRENCH GUIANA",
+    "price": 70,
+    "phone": "+1 (912) 576-3379",
+    "img": "https://randomuser.me/api/portraits/med/women/40.jpg"
+  },
+  {
+    "_id": "615026f505656d692761c43b",
+    "name": "Tara William",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "female",
+    "country": "ZIMBABWE",
+    "price": 71,
+    "phone": "+1 (844) 491-3929",
+    "img": "https://randomuser.me/api/portraits/med/women/46.jpg"
+  },
+  {
+    "_id": "615026f53b8b674004c71710",
+    "name": "Wyatt Dyer",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "ITALY",
+    "price": 69,
+    "phone": "+1 (920) 579-2262",
+    "img": "https://randomuser.me/api/portraits/med/women/47.jpg"
+  },
+  {
+    "_id": "615026f55fa82e5441d34ca4",
+    "name": "Nielsen Beard",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "AUSTRALIA",
+    "price": 83,
+    "phone": "+1 (817) 536-2891",
+    "img": "https://randomuser.me/api/portraits/med/women/44.jpg"
+  },
+  {
+    "_id": "615026f58bf68ad0ec1d21ee",
+    "name": "Latonya Oneil",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "female",
+    "country": "ISRAEL",
+    "price": 100,
+    "phone": "+1 (959) 512-2709",
+    "img": "https://randomuser.me/api/portraits/med/men/42.jpg"
+  },
+  {
+    "_id": "615026f50128912864e33f03",
+    "name": "Dudley Waller",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "MARIANA  ",
+    "price": 71,
+    "phone": "+1 (914) 593-3467",
+    "img": "https://randomuser.me/api/portraits/med/men/34.jpg"
+  },
+  {
+    "_id": "615026f53475be7235ebbe5d",
+    "name": "Cummings Best",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "YEMEN",
+    "price": 90,
+    "phone": "+1 (877) 403-2463",
+    "img": "https://randomuser.me/api/portraits/med/women/73.jpg"
+  },
+  {
+    "_id": "615026f52aff1bc276d1b1f1",
+    "name": "Gwen Houston",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "female",
+    "country": "URUGUAY",
+    "price": 50,
+    "phone": "+1 (930) 534-2571",
+    "img": "https://randomuser.me/api/portraits/med/men/92.jpg" 
+  },
+  {
+    "_id": "615026f558544c9e7c2a47f8",
+    "name": "Jones Schmidt",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "UNITED STATES",
+    "price": 57,
+    "phone": "+1 (944) 544-3550",
+    "img": "https://randomuser.me/api/portraits/med/women/71.jpg"
+  },
+  {
+    "_id": "615026f54913a14f73e6f232",
+    "name": "Gibson Pierce",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "MEXICO",
+    "price": 70,
+    "phone": "+1 (922) 401-2615",
+    "img": "https://randomuser.me/api/portraits/med/men/19.jpg"
+  },
+  {
+    "_id": "615026f5ecbc1fe5d7859872",
+    "name": "Klein Chase",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "RUSSIAN FEDERATION",
+    "price": 61,
+    "phone": "+1 (961) 401-2018",
+    "img":"https://randomuser.me/api/portraits/med/men/58.jpg"
+  },
+  {
+    "_id": "615026f56ae7c9835772da14",
+    "name": "Bryan Bowen",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "male",
+    "country": "FRANCE",
+    "price": 55,
+    "phone": "+1 (948) 507-2430",
+    "img": "https://randomuser.me/api/portraits/med/men/40.jpg"
+  },
+  {
+    "_id": "615026f5df9aeb9916863a37",
+    "name": "Marsha Harmon",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "female",
+    "country": "MALAYSIA",
+    "price": 93,
+    "phone": "+1 (868) 453-2951",
+    "img": "https://randomuser.me/api/portraits/med/women/60.jpg"
+  },
+  {
+    "_id": "615026f522d18eee8ecab517",
+    "name": "Rosemary Salinas",
+    "type": "<ReferenceError: type is not defined>",
+    "gender": "female",
+    "country": "GREECE",
+    "price": 58,
+    "phone": "+1 (831) 451-3681",
+    "img": "https://randomuser.me/api/portraits/med/men/88.jpg"
+  }
+]
