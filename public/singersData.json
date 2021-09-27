@@ -5,7 +5,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "HONG KONG",
-    "price": 62,
+    "price": 6200,
     "phone": "+1 (964) 557-2842",
     "img": "https://randomuser.me/api/portraits/med/men/84.jpg"
   },
@@ -15,7 +15,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "FRENCH GUIANA",
-    "price": 70,
+    "price": 7000,
     "phone": "+1 (912) 576-3379",
     "img": "https://randomuser.me/api/portraits/med/women/40.jpg"
   },
@@ -25,7 +25,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "female",
     "country": "ZIMBABWE",
-    "price": 71,
+    "price": 7100,
     "phone": "+1 (844) 491-3929",
     "img": "https://randomuser.me/api/portraits/med/women/46.jpg"
   },
@@ -35,7 +35,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "ITALY",
-    "price": 69,
+    "price": 6900,
     "phone": "+1 (920) 579-2262",
     "img": "https://randomuser.me/api/portraits/med/women/47.jpg"
   },
@@ -45,7 +45,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "AUSTRALIA",
-    "price": 83,
+    "price": 8300,
     "phone": "+1 (817) 536-2891",
     "img": "https://randomuser.me/api/portraits/med/women/44.jpg"
   },
@@ -55,7 +55,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "female",
     "country": "ISRAEL",
-    "price": 100,
+    "price": 10000,
     "phone": "+1 (959) 512-2709",
     "img": "https://randomuser.me/api/portraits/med/men/42.jpg"
   },
@@ -65,7 +65,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "MARIANA  ",
-    "price": 71,
+    "price": 7300,
     "phone": "+1 (914) 593-3467",
     "img": "https://randomuser.me/api/portraits/med/men/34.jpg"
   },
@@ -75,7 +75,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "YEMEN",
-    "price": 90,
+    "price": 9000,
     "phone": "+1 (877) 403-2463",
     "img": "https://randomuser.me/api/portraits/med/women/73.jpg"
   },
@@ -85,7 +85,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "female",
     "country": "URUGUAY",
-    "price": 50,
+    "price": 5000,
     "phone": "+1 (930) 534-2571",
     "img": "https://randomuser.me/api/portraits/med/men/92.jpg" 
   },
@@ -95,7 +95,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "UNITED STATES",
-    "price": 57,
+    "price": 5700,
     "phone": "+1 (944) 544-3550",
     "img": "https://randomuser.me/api/portraits/med/women/71.jpg"
   },
@@ -105,7 +105,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "MEXICO",
-    "price": 70,
+    "price": 7000,
     "phone": "+1 (922) 401-2615",
     "img": "https://randomuser.me/api/portraits/med/men/19.jpg"
   },
@@ -114,8 +114,8 @@
     "name": "Klein Chase",
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
-    "country": "RUSSIAN FEDERATION",
-    "price": 61,
+    "country": "RUSSIA",
+    "price": 6100,
     "phone": "+1 (961) 401-2018",
     "img":"https://randomuser.me/api/portraits/med/men/58.jpg"
   },
@@ -125,7 +125,7 @@
     "type": "<ReferenceError: type is not defined>",
     "gender": "male",
     "country": "FRANCE",
-    "price": 55,
+    "price": 5500,
     "phone": "+1 (948) 507-2430",
     "img": "https://randomuser.me/api/portraits/med/men/40.jpg"
   },

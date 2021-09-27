@@ -1,7 +1,13 @@
-
 .card-deck .card{
-    background-color: burlywood;
+    background-color: rgb(240, 216, 216);
     margin: 10px;
-    padding: 10px;
+    padding: 15px;
     border-radius: 5px;
+}
+.card .general-btn{
+    background-color: rgb(197, 60, 88);
+    color: white ;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    padding: 5px;
 }

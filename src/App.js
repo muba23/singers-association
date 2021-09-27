@@ -8,7 +8,6 @@ function App() {
     <div>
         <Header></Header>
         <Singer></Singer>
-        <Cart></Cart>
     </div>
   );
 }

@@ -1,25 +1,38 @@
+import React, { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
+import Singers from '../Singers/Singers';
+
 import './Singer.css'
 
-import React, { useEffect, useState } from 'react';
-import Singers from '../Singers/Singers';
 
 const Singer = () => {
     const [singers, setSingers] = useState([]);
+    const [cart, setCart] = useState([]);
 
     useEffect(()=>{
         fetch('./singersData.JSON')
         .then(res => res.json())
         .then(data=>setSingers(data))
     },[])
+
+    const handleAddToCart = (singer) =>{
+       // console.log(singer);
+       const newCart = [...cart, singer];
+       setCart(newCart);
+    }
     return (
         <div className="main-container">
             <div className="singer-container">
                 {
-                    singers.map(singer => <Singers singer={singer}></Singers>)
+                    singers.map(singer => <Singers 
+                        key = {singer._id}
+                        singer={singer}
+                        handleAddToCart={handleAddToCart}>
+                        </Singers>)
                 }
             </div>
             <div className="cart-container">
-                <h2>Ordered:</h2>
+                <Cart cart={cart}></Cart>
             </div>
             
         </div>
