@@ -11,3 +11,16 @@
     border: 1px solid lightgrey;
     padding: 5px;
 }
+.card .icon{
+    text-align: center;
+    padding-top: 10px;
+}
+.card .fa-facebook-square{
+    padding-left: 10px;
+}
+.card .fa-twitter{
+    padding-left: 15px;
+}
+.card .fa-instagram-square{
+    padding-left: 15px;
+}

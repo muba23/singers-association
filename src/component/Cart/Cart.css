@@ -1,4 +1,11 @@
+.cart-section{
+    margin-top: 30px;
+    padding: 0px 30px 30px 30px;
+    background-color: lightsalmon;
+}
 .arrangement{
     text-align: center;
-    padding-top: 60px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: rgb(18, 18, 122);
 }

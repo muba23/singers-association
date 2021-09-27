@@ -15,7 +15,7 @@ const Singer = () => {
         .then(data=>setSingers(data))
     },[])
 
-    const handleAddToCart = (singer) =>{
+    const handleCart = (singer) =>{
        // console.log(singer);
        const newCart = [...cart, singer];
        setCart(newCart);
@@ -27,7 +27,7 @@ const Singer = () => {
                     singers.map(singer => <Singers 
                         key = {singer._id}
                         singer={singer}
-                        handleAddToCart={handleAddToCart}>
+                        handleCart={handleCart}>
                         </Singers>)
                 }
             </div>

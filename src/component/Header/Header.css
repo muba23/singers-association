@@ -1,22 +1,36 @@
 .header{
     text-align: center;
-    background-color: rgba(148, 105, 189, 0.555);
+    background-color: rgb(238, 212, 128);
 }
 .logo{
     height: 100px;
     width: 550px;
 }
 .header nav{
-    background-color: black;
-    line-height: 50px;
-    text-align: left;
+    background-color: rgb(36, 33, 33);
+    line-height: 60px;
+    /* text-align: right; */
 }
+.header nav .name{
+    display: inline;
+    background: -webkit-linear-gradient(rgb(241, 190, 22), rgb(231, 33, 132));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-right: 650px;
+    margin-left: 0px;
+    font-size: 30px;
+}
+
 .header nav a{
     text-decoration: none;
     color: white;
     margin-right: 20px;
     padding: 10px;
     font-size: 20px;
+    text-align: right;
+}
+#contact{
+    margin-right: 0px;
 }
 
 .header nav a:hover{
@@ -26,6 +40,7 @@
 }
 
 .header .team{
-    background-color: rgba(77, 178, 218, 0.603);
+    background-image: linear-gradient(rgba(165, 243, 147, 0.815),white,rgba(165, 243, 147, 0.815));
     padding-bottom: 5px;
+    color: black;
 }
